@@ -9,7 +9,7 @@ print('''
  / /_/ /  __/ |/ |/ // / / /_/ / /_/ / (__  ) 
 /_____/\___/|__/|__//_/  \____/\____/_/____/  
                                               
-            Tele : @DewTools | @LordAbdulla 
+            Insta : @hr8k  
             ''')
 dewx = input(' Enter The UserName : ')
 headers = {
@@ -31,6 +31,5 @@ datee = dewtools['data']
 print(f' [+] The Date That {dewx} Joined Insta Is {datee}')
 
 
-#Telegram : @DewTools
 #Inst : @hr8k 
 #Github : github.com/LordAbdulla
